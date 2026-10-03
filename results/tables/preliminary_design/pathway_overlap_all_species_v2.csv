@@ -1,0 +1,898 @@
+Term,Axolotl,Mouse,Human,Species_Count
+Disease R-HSA-1643685,True,False,True,2
+Antigen processing-Cross Presentation R-HSA-1236975,True,False,True,2
+ER-Phagosome Pathway R-HSA-1236974,True,False,True,2
+MAPK Family Signaling Cascades R-HSA-5683057,True,False,True,2
+MAPK1/MAPK3 Signaling R-HSA-5684996,True,False,True,2
+Post-translational Protein Modification R-HSA-597592,True,False,True,2
+Positive Regulation Of Multicellular Organismal Process (GO:0051240),True,False,True,2
+Metabolism Of Proteins R-HSA-392499,True,False,True,2
+Cellular Response To Chemical Stress R-HSA-9711123,True,False,True,2
+External Encapsulating Structure Organization (GO:0045229),True,True,False,2
+Disorders Of Transmembrane Transporters R-HSA-5619115,True,False,True,2
+Extracellular Structure Organization (GO:0043062),True,True,False,2
+Extracellular Matrix Organization R-HSA-1474244,True,False,True,2
+RNA degradation,True,False,False,1
+"RNA Splicing, Via Transesterification Reactions (GO:0000375)",True,False,False,1
+RNA Splicing (GO:0008380),True,False,False,1
+RNA Processing (GO:0006396),True,False,False,1
+RNA Polymerase III Transcription Termination R-HSA-73980,True,False,False,1
+"RNA Splicing, Via Transesterification Reactions With Bulged Adenosine As Nucleophile (GO:0000377)",True,False,False,1
+RNA polymerase,True,False,False,1
+RNA transport,True,False,False,1
+RND2 GTPase Cycle R-HSA-9696270,True,False,False,1
+RUNX1 Interacts With Co-Factors Whose Precise Effect On RUNX1 Targets Is Not Known R-HSA-8939243,True,False,False,1
+RUNX1 Regulates Transcription Of Genes Involved In BCR Signaling R-HSA-8939245,True,False,False,1
+RUNX1 Regulates Transcription Of Genes Involved In Differentiation Of HSCs R-HSA-8939236,True,False,False,1
+RUNX1 Regulates Transcription Of Genes Involved In Interleukin Signaling R-HSA-8939247,True,False,False,1
+RUNX2 Regulates Genes Involved In Cell Migration R-HSA-8941332,True,False,False,1
+Recognition Of DNA Damage By PCNA-containing Replication Complex R-HSA-110314,True,False,False,1
+Regulation Of APC/C Activators Between G1/S And Early Anaphase R-HSA-176408,True,False,False,1
+Regulation Of Activated PAK-2p34 By Proteasome Mediated Degradation R-HSA-211733,True,False,False,1
+"Regulation Of Alternative mRNA Splicing, Via Spliceosome (GO:0000381)",True,False,False,1
+RNA Polymerase III Abortive And Retractive Initiation R-HSA-749476,True,False,False,1
+Protein Localization To Cytoplasmic Stress Granule (GO:1903608),True,False,False,1
+Protein Localization To Nuclear Envelope (GO:0090435),True,False,False,1
+Protein Localization To Nucleus (GO:0034504),True,False,False,1
+Protein Ubiquitination R-HSA-8852135,True,False,False,1
+Purine Nucleotide Biosynthetic Process (GO:0006164),True,False,False,1
+Purine Nucleotide Metabolic Process (GO:0006163),True,False,False,1
+Purine-Containing Compound Biosynthetic Process (GO:0072522),True,False,False,1
+RAF/MAP Kinase Cascade R-HSA-5673001,False,False,True,1
+RHO GTPase Effectors R-HSA-195258,True,False,False,1
+RHO GTPases Activate Formins R-HSA-5663220,True,False,False,1
+RHO GTPases Activate NADPH Oxidases R-HSA-5668599,False,False,True,1
+RHOBTB GTPase Cycle R-HSA-9706574,True,False,False,1
+RHOBTB1 GTPase Cycle R-HSA-9013422,True,False,False,1
+RNA Polymerase II Transcription R-HSA-73857,True,False,False,1
+RMTs Methylate Histone Arginines R-HSA-3214858,True,False,False,1
+RNA 3'-End Processing (GO:0031123),True,False,False,1
+RNA Biosynthetic Process (GO:0032774),True,False,False,1
+RNA Catabolic Process (GO:0006401),True,False,False,1
+RNA Export From Nucleus (GO:0006405),True,False,False,1
+RNA Metabolic Process (GO:0016070),True,False,False,1
+RNA Pol II CTD Phosphorylation And Interaction With CE R-HSA-77075,True,False,False,1
+RNA Polyadenylation (GO:0043631),True,False,False,1
+RNA Polymerase I Transcription Initiation R-HSA-73762,True,False,False,1
+RNA Polymerase II Pre-transcription Events R-HSA-674695,True,False,False,1
+RNA Polymerase II Transcribes snRNA Genes R-HSA-6807505,True,False,False,1
+Regulation Of Apoptosis R-HSA-169911,True,False,False,1
+RNA Polymerase II Transcription Termination R-HSA-73856,True,False,False,1
+RHOT1 GTPase Cycle R-HSA-9013425,True,False,False,1
+Regulation Of G0 To G1 Transition (GO:0070316),True,False,False,1
+Regulation Of G1/S Transition Of Mitotic Cell Cycle (GO:2000045),True,False,False,1
+Regulation Of G2/M Transition Of Mitotic Cell Cycle (GO:0010389),True,False,False,1
+Regulation Of Gene Expression (GO:0010468),True,False,False,1
+Regulation Of HSF1-mediated Heat Shock Response R-HSA-3371453,True,False,False,1
+Regulation Of Heterotypic Cell-Cell Adhesion (GO:0034114),False,False,True,1
+Regulation Of IGF Transport And Uptake By IGFBPs R-HSA-381426,False,False,True,1
+Regulation Of Inflammatory Response (GO:0050727),False,False,True,1
+Regulation Of Interleukin-1 Beta Production (GO:0032651),False,False,True,1
+Regulation Of Intrinsic Apoptotic Signaling Pathway (GO:2001242),False,False,True,1
+Regulation Of Lipid Storage (GO:0010883),False,False,True,1
+Regulation Of Macrophage Derived Foam Cell Differentiation (GO:0010743),False,False,True,1
+Regulation Of Metaphase/Anaphase Transition Of Cell Cycle (GO:1902099),True,False,False,1
+Regulation Of Apoptotic Process (GO:0042981),False,False,True,1
+Regulation Of Mitotic Cell Cycle (GO:0007346),True,False,False,1
+Regulation Of Mitotic Cell Cycle Phase Transition (GO:1901990),True,False,False,1
+Regulation Of Mitotic Cell Cycle Spindle Assembly Checkpoint (GO:0090266),True,False,False,1
+Regulation Of Mitotic Centrosome Separation (GO:0046602),True,False,False,1
+Regulation Of Mitotic Cytokinesis (GO:1902412),True,False,False,1
+Regulation Of Mitotic Metaphase/Anaphase Transition (GO:0030071),True,False,False,1
+Regulation Of Mitotic Nuclear Division (GO:0007088),True,False,False,1
+Regulation Of Mitotic Spindle Organization (GO:0060236),True,False,False,1
+Regulation Of Monocyte Chemotactic Protein-1 Production (GO:0071637),False,True,False,1
+Regulation Of Muscle Cell Differentiation (GO:0051147),True,False,False,1
+Regulation Of Nucleotide-Excision Repair (GO:2000819),True,False,False,1
+Regulation Of Ornithine Decarboxylase (ODC) R-HSA-350562,True,False,False,1
+Regulation Of Osteoblast Differentiation (GO:0045667),False,True,False,1
+Regulation Of Mitochondrial Translation (GO:0070129),True,False,False,1
+Regulation Of Apoptotic Cell Clearance (GO:2000425),False,False,True,1
+"Protein Localization To Chromosome, Centromeric Region (GO:0071459)",True,False,False,1
+Regulation Of Cell Cycle (GO:0051726),True,False,False,1
+Regulation Of Cell Cycle Process (GO:0010564),True,False,False,1
+Regulation Of Cell Death (GO:0010941),False,False,True,1
+Regulation Of Cell Fate Commitment (GO:0010453),True,False,False,1
+Regulation Of Cell Fate Specification (GO:0042659),True,False,False,1
+Regulation Of Cellular Senescence (GO:2000772),True,False,False,1
+Regulation Of Chemokine Production (GO:0032642),False,False,True,1
+Regulation Of Cholesterol Storage (GO:0010885),False,False,True,1
+Regulation Of Chromosome Condensation (GO:0060623),True,False,False,1
+Regulation Of Chromosome Segregation (GO:0051983),True,False,False,1
+Regulation Of Chromosome Separation (GO:1905818),True,False,False,1
+Regulation Of Fibrinolysis (GO:0051917),False,False,True,1
+Regulation Of Cyclin-Dependent Protein Serine/Threonine Kinase Activity (GO:0000079),True,False,False,1
+Regulation Of DNA Binding (GO:0051101),True,False,False,1
+Regulation Of DNA Metabolic Process (GO:0051052),True,False,False,1
+Regulation Of DNA Repair (GO:0006282),True,False,False,1
+Regulation Of DNA-directed DNA Polymerase Activity (GO:1900262),True,False,False,1
+Regulation Of DNA-templated DNA Replication Initiation (GO:0030174),True,False,False,1
+Regulation Of DNA-templated Transcription (GO:0006355),True,False,False,1
+Regulation Of Double-Strand Break Repair (GO:2000779),True,False,False,1
+Regulation Of Double-Strand Break Repair Via Homologous Recombination (GO:0010569),True,False,False,1
+Regulation Of Endopeptidase Activity (GO:0052548),False,False,True,1
+Regulation Of Endothelial Cell Apoptotic Process (GO:2000351),False,False,True,1
+Regulation Of Expression Of SLITs And ROBOs R-HSA-9010553,True,False,False,1
+Regulation Of Extracellular Matrix Organization (GO:1903053),True,False,False,1
+Regulation Of Extrinsic Apoptotic Signaling Pathway Via Death Domain Receptors (GO:1902041),False,False,True,1
+Regulation Of Complement Cascade R-HSA-977606,False,False,True,1
+Positive Regulation Of Cell Population Proliferation (GO:0008284),True,False,False,1
+Positive Regulation Of Cell-Cell Adhesion (GO:0022409),False,False,True,1
+Positive Regulation Of Cell-Substrate Adhesion (GO:0010811),False,False,True,1
+Positive Regulation Of Cellular Process (GO:0048522),False,False,True,1
+Positive Regulation Of Chromosome Condensation (GO:1905821),True,False,False,1
+Positive Regulation Of Chromosome Organization (GO:2001252),True,False,False,1
+Positive Regulation Of Chromosome Segregation (GO:0051984),True,False,False,1
+Positive Regulation Of Chromosome Separation (GO:1905820),True,False,False,1
+Positive Regulation Of DNA Biosynthetic Process (GO:2000573),True,False,False,1
+Positive Regulation Of DNA Metabolic Process (GO:0051054),True,False,False,1
+Positive Regulation Of DNA-directed DNA Polymerase Activity (GO:1900264),True,False,False,1
+Positive Regulation Of DNA-templated Transcription (GO:0045893),True,False,False,1
+"Positive Regulation Of DNA-templated Transcription, Elongation (GO:0032786)",True,False,False,1
+Protein Import Into Nucleus (GO:0006606),True,False,False,1
+Positive Regulation Of Developmental Process (GO:0051094),True,False,False,1
+Positive Regulation Of Double-Strand Break Repair (GO:2000781),True,False,False,1
+Positive Regulation Of Double-Strand Break Repair Via Homologous Recombination (GO:1905168),True,False,False,1
+Positive Regulation Of Exocytosis (GO:0045921),False,False,True,1
+Positive Regulation Of G Protein-Coupled Receptor Signaling Pathway (GO:0045745),False,False,True,1
+Positive Regulation Of G1/S Transition Of Mitotic Cell Cycle (GO:1900087),True,False,False,1
+Positive Regulation Of Heterotypic Cell-Cell Adhesion (GO:0034116),False,False,True,1
+Positive Regulation Of Histone Deacetylation (GO:0031065),True,False,False,1
+Positive Regulation Of Hormone Secretion (GO:0046887),False,False,True,1
+Positive Regulation Of Inflammatory Response (GO:0050729),False,False,True,1
+Positive Regulation Of Integrin-Mediated Signaling Pathway (GO:2001046),True,False,False,1
+Positive Regulation Of Intrinsic Apoptotic Signaling Pathway (GO:2001244),False,False,True,1
+Positive Regulation Of Lipid Localization (GO:1905954),False,False,True,1
+Positive Regulation Of Defense Response (GO:0031349),False,False,True,1
+Parkinson disease,True,False,False,1
+Pathogenic Escherichia coli infection,False,False,True,1
+Pathways in cancer,True,False,False,1
+Peptide Cross-Linking (GO:0018149),False,False,True,1
+Peptidyl-Cysteine Modification (GO:0018198),False,False,True,1
+Pertussis,False,False,True,1
+Phosphorylation Of APC/C R-HSA-176412,True,False,False,1
+Phosphorylation Of Emi1 R-HSA-176417,True,False,False,1
+Plasma Lipoprotein Assembly R-HSA-8963898,False,False,True,1
+"Plasma Lipoprotein Assembly, Remodeling, And Clearance R-HSA-174824",False,False,True,1
+Plasma Lipoprotein Clearance R-HSA-8964043,False,False,True,1
+Plasma Lipoprotein Remodeling R-HSA-8963899,False,False,True,1
+Plasminogen Activation (GO:0031639),False,False,True,1
+Positive Regulation Of Cell Differentiation (GO:0045597),True,False,False,1
+Platelet Aggregation (GO:0070527),False,False,True,1
+Platelet Aggregation (Plug Formation) R-HSA-76009,False,False,True,1
+Platelet Degranulation R-HSA-114608,False,False,True,1
+Platelet activation,False,False,True,1
+Polo-like Kinase Mediated Events R-HSA-156711,True,False,False,1
+Polyadenylation-Dependent snoRNA 3'-End Processing (GO:0071051),True,False,False,1
+Polymerase Switching On C-strand Of Telomere R-HSA-174411,True,False,False,1
+Positive Regulation By Host Of Viral Transcription (GO:0043923),True,False,False,1
+Positive Regulation Of ATP-dependent Activity (GO:0032781),True,False,False,1
+Positive Regulation Of Apoptotic Cell Clearance (GO:2000427),False,False,True,1
+Positive Regulation Of Blood Coagulation (GO:0030194),False,False,True,1
+Positive Regulation Of Cell Cycle G1/S Phase Transition (GO:1902808),True,False,False,1
+Positive Regulation Of Cell Cycle Process (GO:0090068),True,False,False,1
+Positive Regulation Of Cell Death (GO:0010942),False,False,True,1
+"Platelet Activation, Signaling And Aggregation R-HSA-76002",False,False,True,1
+Positive Regulation Of Translation (GO:0045727),True,False,False,1
+Positive Regulation Of Transmembrane Transport (GO:0034764),False,False,True,1
+Positive Regulation Of Ubiquitin Protein Ligase Activity (GO:1904668),True,False,False,1
+Positive Regulation Of Vascular Endothelial Growth Factor Production (GO:0010575),False,False,True,1
+Positive Regulation Of Vasoconstriction (GO:0045907),False,False,True,1
+Post-translational Protein Phosphorylation R-HSA-8957275,False,False,True,1
+Postmitotic Nuclear Pore Complex (NPC) Reformation R-HSA-9615933,True,False,False,1
+Prion disease,True,False,False,1
+Processing And Activation Of SUMO R-HSA-3215018,True,False,False,1
+Processing Of Capped Intron-Containing Pre-mRNA R-HSA-72203,True,False,False,1
+Processing Of Capped Intronless Pre-mRNA R-HSA-75067,True,False,False,1
+Processing Of DNA Double-Strand Break Ends R-HSA-5693607,True,False,False,1
+Processing Of Intronless Pre-mRNAs R-HSA-77595,True,False,False,1
+Positive Regulation Of Lipid Storage (GO:0010884),False,False,True,1
+Progesterone-mediated oocyte maturation,True,False,False,1
+Programmed Cell Death R-HSA-5357801,True,False,False,1
+Proteasomal Protein Catabolic Process (GO:0010498),True,False,False,1
+Proteasome,True,False,False,1
+Proteasome-Mediated Ubiquitin-Dependent Protein Catabolic Process (GO:0043161),True,False,False,1
+Protein Activation Cascade (GO:0072376),False,False,True,1
+Protein Complex Oligomerization (GO:0051259),True,False,False,1
+Protein Deacetylation (GO:0006476),True,False,False,1
+Protein Heterooligomerization (GO:0051291),True,False,False,1
+Protein Heterotetramerization (GO:0051290),True,False,False,1
+Protein Hexamerization (GO:0034214),True,False,False,1
+Regulation Of PTEN Gene Transcription R-HSA-8943724,True,False,False,1
+Protein K11-linked Ubiquitination (GO:0070979),True,False,False,1
+Processive Synthesis On Lagging Strand R-HSA-69183,True,False,False,1
+Positive Regulation Of Lymphocyte Differentiation (GO:0045621),True,False,False,1
+Positive Regulation Of Macrophage Derived Foam Cell Differentiation (GO:0010744),False,False,True,1
+Positive Regulation Of Metaphase/Anaphase Transition Of Cell Cycle (GO:1902101),True,False,False,1
+Positive Regulation Of Mitochondrial Translation (GO:0070131),True,False,False,1
+Positive Regulation Of Mitotic Cell Cycle Phase Transition (GO:1901992),True,False,False,1
+Positive Regulation Of Mitotic Cell Cycle Spindle Assembly Checkpoint (GO:0090267),True,False,False,1
+Positive Regulation Of Mitotic Cytokinesis (GO:1903490),True,False,False,1
+Positive Regulation Of Mitotic Metaphase/Anaphase Transition (GO:0045842),True,False,False,1
+Positive Regulation Of Mitotic Nuclear Division (GO:0045840),True,False,False,1
+Positive Regulation Of Mitotic Sister Chromatid Separation (GO:1901970),True,False,False,1
+Positive Regulation Of Muscle Cell Differentiation (GO:0051149),True,False,False,1
+Positive Regulation Of Nucleic Acid-Templated Transcription (GO:1903508),True,False,False,1
+Positive Regulation Of Nucleocytoplasmic Transport (GO:0046824),True,False,False,1
+Positive Regulation Of Transferase Activity (GO:0051347),True,False,False,1
+Positive Regulation Of Peptide Secretion (GO:0002793),False,False,True,1
+Positive Regulation Of Phagocytosis (GO:0050766),False,False,True,1
+Positive Regulation Of Protein Deacetylation (GO:0090312),True,False,False,1
+Positive Regulation Of Protein Modification By Small Protein Conjugation Or Removal (GO:1903322),True,False,False,1
+Positive Regulation Of RNA Biosynthetic Process (GO:1902680),True,False,False,1
+Positive Regulation Of RNA Metabolic Process (GO:0051254),True,False,False,1
+Positive Regulation Of RNA Splicing (GO:0033120),True,False,False,1
+Positive Regulation Of Response To External Stimulus (GO:0032103),False,False,True,1
+Positive Regulation Of Spindle Checkpoint (GO:0090232),True,False,False,1
+Positive Regulation Of Stem Cell Population Maintenance (GO:1902459),True,False,False,1
+Positive Regulation Of Substrate Adhesion-Dependent Cell Spreading (GO:1900026),False,False,True,1
+Positive Regulation Of Telomerase Activity (GO:0051973),True,False,False,1
+Positive Regulation Of Transcription By RNA Polymerase I (GO:0045943),True,False,False,1
+Positive Regulation Of Transcription Of Nucleolar Large rRNA By RNA Polymerase I (GO:1901838),True,False,False,1
+Positive Regulation Of Peptide Hormone Secretion (GO:0090277),False,False,True,1
+Transcriptional Regulation By RUNX3 R-HSA-8878159,True,False,False,1
+Transcriptional Regulation By Small RNAs R-HSA-5578749,True,False,False,1
+Transcriptional Regulation By TP53 R-HSA-3700989,True,False,False,1
+Transition Metal Ion Transport (GO:0000041),False,False,True,1
+Translation (GO:0006412),True,False,False,1
+Translation R-HSA-72766,True,False,False,1
+Translesion Synthesis By Y Family DNA Polymerases Bypasses Lesions On DNA Template R-HSA-110313,True,False,False,1
+Translocation Of Molecules Into Host (GO:0044417),True,False,False,1
+Transport Of Mature Transcript To Cytoplasm R-HSA-72202,True,False,False,1
+Transport Of Mature mRNA Derived From An Intron-Containing Transcript R-HSA-159236,True,False,False,1
+Transport Of Mature mRNA Derived From An Intronless Transcript R-HSA-159231,True,False,False,1
+Transport Of Mature mRNAs Derived From Intronless Transcripts R-HSA-159234,True,False,False,1
+Regulation Of Protein Localization To Cell Cortex (GO:1904776),True,False,False,1
+Transport Of SLBP Dependant Mature mRNA R-HSA-159230,True,False,False,1
+Transport Of SLBP Independent Mature mRNA R-HSA-159227,True,False,False,1
+Transport Of Small Molecules R-HSA-382551,False,False,True,1
+Transport To Golgi And Subsequent Modification R-HSA-948021,False,False,True,1
+Triglyceride Homeostasis (GO:0070328),False,False,True,1
+Triglyceride Metabolic Process (GO:0006641),False,False,True,1
+"Tristetraprolin (TTP, ZFP36) Binds And Destabilizes mRNA R-HSA-450513",True,False,False,1
+U2-type Prespliceosome Assembly (GO:1903241),True,False,False,1
+U4 snRNA 3'-End Processing (GO:0034475),True,False,False,1
+UCH Proteinases R-HSA-5689603,True,False,False,1
+Ub-specific Processing Proteases R-HSA-5689880,True,False,False,1
+Ubiquitin Mediated Degradation Of Phosphorylated Cdc25A R-HSA-69601,True,False,False,1
+Ubiquitin mediated proteolysis,True,False,False,1
+Transport Of Ribonucleoproteins Into Host Nucleus R-HSA-168271,True,False,False,1
+Synthesis Of DNA R-HSA-69239,True,False,False,1
+Systemic lupus erythematosus,False,False,True,1
+TCF Dependent Signaling In Response To WNT R-HSA-201681,True,False,False,1
+TCR Signaling R-HSA-202403,True,False,False,1
+TFAP2A Acts As A Transcriptional Repressor During Retinoic Acid Induced Cell Differentiation R-HSA-8869496,True,False,False,1
+TNFR2 Non-Canonical NF-kB Pathway R-HSA-5668541,True,False,False,1
+TP53 Regulates Transcription Of Cell Cycle Genes R-HSA-6791312,True,False,False,1
+TP53 Regulates Transcription Of DNA Repair Genes R-HSA-6796648,True,False,False,1
+TP53 Regulates Transcription Of Genes Involved In G2 Cell Cycle Arrest R-HSA-6804114,True,False,False,1
+Telomere C-strand (Lagging Strand) Synthesis R-HSA-174417,True,False,False,1
+Telomere Extension By Telomerase R-HSA-171319,True,False,False,1
+Telomere Maintenance R-HSA-157579,True,False,False,1
+Terminal Pathway Of Complement R-HSA-166665,False,False,True,1
+Transcriptional Regulation By RUNX2 R-HSA-8878166,True,False,False,1
+Terpenoid backbone biosynthesis,True,False,False,1
+Toll Like Receptor 4 (TLR4) Cascade R-HSA-166016,False,False,True,1
+Toll-like Receptor Cascades R-HSA-168898,False,False,True,1
+Transcription By RNA Polymerase II (GO:0006366),True,False,False,1
+Transcription Initiation At RNA Polymerase II Promoter (GO:0006367),True,False,False,1
+Transcription Of E2F Targets Under Negative Control By DREAM Complex R-HSA-1362277,True,False,False,1
+Transcription Of E2F Targets Under Negative Control By P107 (RBL1) And P130 (RBL2) In Complex With HDAC1 R-HSA-1362300,True,False,False,1
+Transcription Of HIV Genome R-HSA-167172,True,False,False,1
+Transcription-Coupled Nucleotide Excision Repair (TC-NER) R-HSA-6781827,True,False,False,1
+Transcriptional Activity Of SMAD2/SMAD3:SMAD4 Heterotrimer R-HSA-2173793,True,False,False,1
+Transcriptional Regulation By AP-2 (TFAP2) Family Of Transcription Factors R-HSA-8864260,True,False,False,1
+Transcriptional Regulation By E2F6 R-HSA-8953750,True,False,False,1
+Transcriptional Regulation By RUNX1 R-HSA-8878171,True,False,False,1
+Termination Of Translesion DNA Synthesis R-HSA-5656169,True,False,False,1
+mRNA Splicing R-HSA-72172,True,False,False,1
+"mRNA Splicing, Via Spliceosome (GO:0000398)",True,False,False,1
+mRNA Transcription (GO:0009299),True,False,False,1
+mRNA Transcription By RNA Polymerase II (GO:0042789),True,False,False,1
+mRNA Transport (GO:0051028),True,False,False,1
+mRNA surveillance pathway,True,False,False,1
+ncRNA Processing (GO:0034470),True,False,False,1
+p130Cas Linkage To MAPK Signaling For Integrins R-HSA-372708,False,False,True,1
+p53 signaling pathway,True,False,False,1
+p53-Dependent G1 DNA Damage Response R-HSA-69563,True,False,False,1
+pre-mRNA Cleavage Required For Polyadenylation (GO:0098789),True,False,False,1
+ABC Transporter Disorders R-HSA-5619084,True,False,False,1
+tRNA Surveillance (GO:0106354),True,False,False,1
+Ubiquitin-Dependent Protein Catabolic Process (GO:0006511),True,False,False,1
+rRNA Catabolic Process (GO:0016075),True,False,False,1
+rRNA Metabolic Process (GO:0016072),True,False,False,1
+rRNA Modification (GO:0000154),True,False,False,1
+rRNA Modification In Nucleus And Cytosol R-HSA-6790901,True,False,False,1
+rRNA Processing (GO:0006364),True,False,False,1
+rRNA Processing In Nucleus And Cytosol R-HSA-8868773,True,False,False,1
+rRNA Processing R-HSA-72312,True,False,False,1
+snRNA 3'-End Processing (GO:0034472),True,False,False,1
+sno(s)RNA 3'-End Processing (GO:0031126),True,False,False,1
+tRNA Modification In Nucleus And Cytosol R-HSA-6782315,True,False,False,1
+tRNA Processing (GO:0008033),True,False,False,1
+tRNA Processing In Nucleus R-HSA-6784531,True,False,False,1
+tRNA Processing R-HSA-72306,True,False,False,1
+rRNA 3'-End Processing (GO:0031125),True,False,False,1
+Ubiquitin-dependent Degradation Of Cyclin D R-HSA-75815,True,False,False,1
+Unattached Kinetochores Signal Amplification Via A MAD2 Inhibitory Signal R-HSA-141444,True,False,False,1
+Unwinding Of DNA R-HSA-176974,True,False,False,1
+VLDL Clearance R-HSA-8964046,False,False,True,1
+Vesicle-mediated Transport R-HSA-5653656,False,False,True,1
+Vif-mediated Degradation Of APOBEC3G R-HSA-180585,True,False,False,1
+Viral Messenger RNA Synthesis R-HSA-168325,True,False,False,1
+Viral mRNA Export From Host Cell Nucleus (GO:0046784),True,False,False,1
+Vitamin digestion and absorption,False,False,True,1
+Vpr-mediated Nuclear Import Of PICs R-HSA-180910,True,False,False,1
+Vpu Mediated Degradation Of CD4 R-HSA-180534,True,False,False,1
+Zymogen Activation (GO:0031638),False,False,True,1
+mRNA 3'-End Processing (GO:0031124),True,False,False,1
+mRNA Splicing - Minor Pathway R-HSA-72165,True,False,False,1
+mRNA Capping R-HSA-72086,True,False,False,1
+mRNA Catabolic Process (GO:0006402),True,False,False,1
+"mRNA Cis Splicing, Via Spliceosome (GO:0045292)",True,False,False,1
+mRNA Cleavage Involved In mRNA Processing (GO:0098787),True,False,False,1
+mRNA Decay By 3 To 5 Exoribonuclease R-HSA-429958,True,False,False,1
+mRNA Export From Nucleus (GO:0006406),True,False,False,1
+mRNA Metabolic Process (GO:0016071),True,False,False,1
+mRNA Methylation (GO:0080009),True,False,False,1
+mRNA Modification (GO:0016556),True,False,False,1
+mRNA Polyadenylation (GO:0006378),True,False,False,1
+protein-DNA Complex Assembly (GO:0065004),True,False,False,1
+mRNA Splice Site Recognition (GO:0006376),True,False,False,1
+mRNA Splicing - Major Pathway R-HSA-72163,True,False,False,1
+mRNA 3-End Processing R-HSA-72187,True,False,False,1
+Regulation Of Vasoconstriction (GO:0019229),False,False,True,1
+Regulation Of mRNA Polyadenylation (GO:1900363),True,False,False,1
+Regulation Of mRNA Processing (GO:0050684),True,False,False,1
+"Regulation Of mRNA Splicing, Via Spliceosome (GO:0048024)",True,False,False,1
+Regulation Of mRNA Stability By Proteins That Bind AU-rich Elements R-HSA-450531,True,False,False,1
+Regulation of actin cytoskeleton,False,False,True,1
+Removal Of Flap Intermediate R-HSA-69166,True,False,False,1
+Resolution Of AP Sites Via Multiple-Nucleotide Patch Replacement Pathway R-HSA-110373,True,False,False,1
+Resolution Of Abasic Sites (AP Sites) R-HSA-73933,True,False,False,1
+Resolution Of Sister Chromatid Cohesion R-HSA-2500257,True,False,False,1
+Respiratory Electron Transport R-HSA-611105,True,False,False,1
+Response To Elevated Platelet Cytosolic Ca2+ R-HSA-76005,False,False,True,1
+Response To Hydrogen Peroxide (GO:0042542),False,False,True,1
+Synthesis Of Active Ubiquitin: Roles Of E1 And E2 Enzymes R-HSA-8866652,True,False,False,1
+Response To Reactive Oxygen Species (GO:0000302),False,False,True,1
+Response To UV (GO:0009411),True,False,False,1
+Retina Homeostasis (GO:0001895),False,False,True,1
+Retinoid Metabolism And Transport R-HSA-975634,False,False,True,1
+Rev-mediated Nuclear Export Of HIV RNA R-HSA-165054,True,False,False,1
+Reversible Hydration Of Carbon Dioxide R-HSA-1475029,False,False,True,1
+Ribonucleoprotein Complex Biogenesis (GO:0022613),True,False,False,1
+Ribosomal Large Subunit Biogenesis (GO:0042273),True,False,False,1
+Ribosomal Small Subunit Biogenesis (GO:0042274),True,False,False,1
+Ribosome Biogenesis (GO:0042254),True,False,False,1
+Ribosome biogenesis in eukaryotes,True,False,False,1
+Role Of GTSE1 In G2/M Progression After G2 Checkpoint R-HSA-8852276,True,False,False,1
+S Phase R-HSA-69242,True,False,False,1
+Response To Molecule Of Bacterial Origin (GO:0002237),False,False,True,1
+Regulation Of PTEN Stability And Activity R-HSA-8948751,True,False,False,1
+Regulation Of Programmed Cell Death (GO:0043067),False,False,True,1
+Regulation Of Protein Import Into Nucleus (GO:0042306),True,False,False,1
+Paradoxical Activation Of RAF Signaling By Kinase Inactive BRAF R-HSA-6802955,False,False,True,1
+Regulation Of Protein Sumoylation (GO:0033233),True,False,False,1
+Regulation Of RAS By GAPs R-HSA-5658442,True,False,False,1
+Regulation Of RNA Export From Nucleus (GO:0046831),True,False,False,1
+Regulation Of RNA Metabolic Process (GO:0051252),True,False,False,1
+Regulation Of RNA Splicing (GO:0043484),True,False,False,1
+Regulation Of RUNX2 Expression And Activity R-HSA-8939902,True,False,False,1
+Regulation Of RUNX3 Expression And Activity R-HSA-8941858,True,False,False,1
+Regulation Of Signal Transduction By P53 Class Mediator (GO:1901796),True,False,False,1
+Regulation Of Sister Chromatid Cohesion (GO:0007063),True,False,False,1
+Regulation Of Vascular Endothelial Growth Factor Production (GO:0010574),False,False,True,1
+Regulation Of Spindle Organization (GO:0090224),True,False,False,1
+Regulation Of Stem Cell Differentiation (GO:2000736),True,False,False,1
+Regulation Of Stem Cell Population Maintenance (GO:2000036),True,False,False,1
+Regulation Of Substrate Adhesion-Dependent Cell Spreading (GO:1900024),False,False,True,1
+Regulation Of TLR By Endogenous Ligand R-HSA-5686938,False,False,True,1
+Regulation Of TP53 Activity R-HSA-5633007,True,False,False,1
+Regulation Of TP53 Activity Thru Acetylation R-HSA-6804758,True,False,False,1
+Regulation Of TP53 Activity Thru Phosphorylation R-HSA-6804756,True,False,False,1
+Regulation Of Transcription Elongation By RNA Polymerase II (GO:0034243),True,False,False,1
+Regulation Of Transcription Of Nucleolar Large rRNA By RNA Polymerase I (GO:1901836),True,False,False,1
+Regulation Of Transforming Growth Factor Beta Receptor Signaling Pathway (GO:0017015),True,False,False,1
+Regulation Of Ubiquitin Protein Ligase Activity (GO:1904666),True,False,False,1
+Regulation Of Ubiquitin-Protein Transferase Activity (GO:0051438),True,False,False,1
+Regulation Of Spindle Assembly (GO:0090169),True,False,False,1
+Signaling By High-Kinase Activity BRAF Mutants R-HSA-6802948,False,False,True,1
+Signaling By Interleukins R-HSA-449147,True,False,False,1
+Signaling By MET R-HSA-6806834,True,False,False,1
+Signaling By NOTCH R-HSA-157118,True,False,False,1
+Signaling By NOTCH4 R-HSA-9013694,True,False,False,1
+Signaling By Nuclear Receptors R-HSA-9006931,True,False,False,1
+Signaling By PDGF R-HSA-186797,True,False,False,1
+Signaling By RAF1 Mutants R-HSA-9656223,False,False,True,1
+Signaling By ROBO Receptors R-HSA-376176,True,False,False,1
+Signaling By Receptor Tyrosine Kinases R-HSA-9006934,True,False,False,1
+Signaling By Rho GTPases R-HSA-194315,True,False,False,1
+"Signaling By Rho GTPases, Miro GTPases And RHOBTB3 R-HSA-9716542",True,False,False,1
+Signaling By TGF-beta Receptor Complex R-HSA-170834,True,False,False,1
+SARS-CoV Infections R-HSA-9679506,True,False,False,1
+Signaling By WNT R-HSA-195721,True,False,False,1
+Small cell lung cancer,True,False,False,1
+Spindle Assembly (GO:0051225),True,False,False,1
+Spindle Assembly Checkpoint Signaling (GO:0071173),True,False,False,1
+Spinocerebellar ataxia,True,False,False,1
+Spliceosomal Complex Assembly (GO:0000245),True,False,False,1
+Spliceosomal tri-snRNP Complex Assembly (GO:0000244),True,False,False,1
+Spliceosome,True,False,False,1
+Stabilization Of P53 R-HSA-69541,True,False,False,1
+Staphylococcus aureus infection,False,False,True,1
+Sterol Homeostasis (GO:0055092),False,False,True,1
+Sterol Transport (GO:0015918),False,False,True,1
+Switching Of Origins To A Post-Replicative State R-HSA-69052,True,False,False,1
+Signaling By TGFB Family Members R-HSA-9006936,True,False,False,1
+SCF(Skp2)-mediated Degradation Of P27/P21 R-HSA-187577,True,False,False,1
+SCF-beta-TrCP Mediated Degradation Of Emi1 R-HSA-174113,True,False,False,1
+SLBP Dependent Processing Of Replication-Dependent Histone Pre-mRNAs R-HSA-77588,True,False,False,1
+SLC Transporter Disorders R-HSA-5619102,True,False,False,1
+SMAD2/SMAD3:SMAD4 Heterotrimer Regulates Transcription R-HSA-2173796,True,False,False,1
+SUMO E3 Ligases SUMOylate Target Proteins R-HSA-3108232,True,False,False,1
+"SUMO Is Transferred From E1 To E2 (UBE2I, UBC9) R-HSA-3065678",True,False,False,1
+SUMOylation Of Chromatin Organization Proteins R-HSA-4551638,True,False,False,1
+SUMOylation Of DNA Damage Response And Repair Proteins R-HSA-3108214,True,False,False,1
+SUMOylation Of DNA Replication Proteins R-HSA-4615885,True,False,False,1
+SUMOylation Of RNA Binding Proteins R-HSA-4570464,True,False,False,1
+SUMOylation Of SUMOylation Proteins R-HSA-4085377,True,False,False,1
+SUMOylation Of Ubiquitinylation Proteins R-HSA-3232142,True,False,False,1
+Signaling By Hedgehog R-HSA-5358351,True,False,False,1
+Scavenging By Class A Receptors R-HSA-3000480,False,False,True,1
+Scavenging By Class B Receptors R-HSA-3000471,False,False,True,1
+Scavenging By Class F Receptors R-HSA-3000484,False,False,True,1
+Scavenging Of Heme From Plasma R-HSA-2168880,False,False,True,1
+Secondary Alcohol Metabolic Process (GO:1902652),False,False,True,1
+Separation Of Sister Chromatids R-HSA-2467813,True,False,False,1
+Signal Transduction R-HSA-162582,True,False,False,1
+Signaling By ALK Fusions And Activated Point Mutants R-HSA-9725370,False,False,True,1
+Signaling By B Cell Receptor (BCR) R-HSA-983705,True,False,False,1
+Signaling By BRAF And RAF1 Fusions R-HSA-6802952,False,False,True,1
+Signaling By FGFR2 IIIa TM R-HSA-8851708,True,False,False,1
+Signaling By FGFR2 In Disease R-HSA-5655253,True,False,False,1
+Signaling By FGFR2 R-HSA-5654738,True,False,False,1
+SUMOylation R-HSA-2990846,True,False,False,1
+Degradation Of DVL R-HSA-4641258,True,False,False,1
+Degradation Of Extracellular Matrix R-HSA-1474228,True,False,False,1
+Degradation Of GLI1 By Proteasome R-HSA-5610780,True,False,False,1
+Degradation Of GLI2 By Proteasome R-HSA-5610783,True,False,False,1
+Detoxification Of Reactive Oxygen Species R-HSA-3299685,True,False,False,1
+Deubiquitination R-HSA-5688426,True,False,False,1
+Developmental Biology R-HSA-1266738,False,True,False,1
+Diseases Associated With TLR Signaling Cascade R-HSA-5602358,False,False,True,1
+Diseases Of Mitotic Cell Cycle R-HSA-9675126,True,False,False,1
+Diseases Of Programmed Cell Death R-HSA-9645723,True,False,False,1
+Diseases Of Signal Transduction By Growth Factor Receptors And Second Messengers R-HSA-5663202,True,False,False,1
+Double-Strand Break Repair (GO:0006302),True,False,False,1
+PCNA-Dependent Long Patch Base Excision Repair R-HSA-5651801,True,False,False,1
+Double-Strand Break Repair Via Homologous Recombination (GO:0000724),True,False,False,1
+Downregulation Of TGF-beta Receptor Signaling R-HSA-2173788,True,False,False,1
+Downstream Signaling Events Of B Cell Receptor (BCR) R-HSA-1168372,True,False,False,1
+Downstream TCR Signaling R-HSA-202424,True,False,False,1
+Dual Incision In GG-NER R-HSA-5696400,True,False,False,1
+Dual Incision In TC-NER R-HSA-6782135,True,False,False,1
+E2F Mediated Regulation Of DNA Replication R-HSA-113510,True,False,False,1
+ECM Proteoglycans R-HSA-3000178,True,False,False,1
+ECM-receptor interaction,True,False,False,1
+EML4 And NUDC In Mitotic Spindle Formation R-HSA-9648025,True,False,False,1
+ER To Golgi Anterograde Transport R-HSA-199977,False,False,True,1
+ESR-mediated Signaling R-HSA-8939211,True,False,False,1
+Endothelial Cell Migration (GO:0043542),False,False,True,1
+Double-Strand Break Repair Via Break-Induced Replication (GO:0000727),True,False,False,1
+DNA Damage Response (GO:0006974),True,False,False,1
+DNA Double-Strand Break Repair R-HSA-5693532,True,False,False,1
+DNA Duplex Unwinding (GO:0032508),True,False,False,1
+DNA Metabolic Process (GO:0006259),True,False,False,1
+DNA Repair (GO:0006281),True,False,False,1
+DNA Repair R-HSA-73894,True,False,False,1
+DNA Replication (GO:0006260),True,False,False,1
+DNA Replication Initiation R-HSA-68952,True,False,False,1
+DNA Replication Pre-Initiation R-HSA-69002,True,False,False,1
+DNA Replication R-HSA-69306,True,False,False,1
+DNA Replication-Dependent Chromatin Assembly (GO:0006335),True,False,False,1
+DNA Strand Elongation Involved In DNA Replication (GO:0006271),True,False,False,1
+DNA Strand Elongation R-HSA-69190,True,False,False,1
+Degradation Of Beta-Catenin By Destruction Complex R-HSA-195253,True,False,False,1
+DNA replication,True,False,False,1
+DNA-templated DNA Replication (GO:0006261),True,False,False,1
+DNA-templated Transcription (GO:0006351),True,False,False,1
+DNA-templated Transcription Initiation (GO:0006352),True,False,False,1
+Deactivation Of Beta-Catenin Transactivating Complex R-HSA-3769402,True,False,False,1
+Deadenylation-dependent mRNA Decay R-HSA-429914,True,False,False,1
+Dectin-1 Mediated Noncanonical NF-kB Signaling R-HSA-5607761,True,False,False,1
+Defective CFTR Causes Cystic Fibrosis R-HSA-5678895,True,False,False,1
+Defective TPR May Confer Susceptibility Towards Thyroid Papillary Carcinoma (TPC) R-HSA-5619107,True,False,False,1
+Defense Response To Bacterium (GO:0042742),False,False,True,1
+Defense Response To Fungus (GO:0050832),False,False,True,1
+Defense Response To Gram-negative Bacterium (GO:0050829),False,False,True,1
+Degradation Of AXIN R-HSA-4641257,True,False,False,1
+DNA Unwinding Involved In DNA Replication (GO:0006268),True,False,False,1
+G1/S DNA Damage Checkpoints R-HSA-69615,True,False,False,1
+G1/S Transition R-HSA-69206,True,False,False,1
+G1/S-Specific Transcription R-HSA-69205,True,False,False,1
+G2 Phase R-HSA-68911,True,False,False,1
+G2/M Checkpoints R-HSA-69481,True,False,False,1
+G2/M DNA Replication Checkpoint R-HSA-69478,True,False,False,1
+G2/M Transition Of Mitotic Cell Cycle (GO:0000086),True,False,False,1
+G2/M Transition R-HSA-69275,True,False,False,1
+GLI3 Is Processed To GLI3R By Proteasome R-HSA-5610785,True,False,False,1
+GRB2:SOS Provides Linkage To MAPK Signaling For Integrins R-HSA-354194,False,False,True,1
+GSK3B And BTRC:CUL1-mediated-degradation Of NFE2L2 R-HSA-9762114,True,False,False,1
+Gap-filling DNA Repair Synthesis And Ligation In GG-NER R-HSA-5696397,True,False,False,1
+Epigenetic Regulation Of Gene Expression (GO:0040029),True,False,False,1
+Gas Transport (GO:0015669),False,False,True,1
+Gene And Protein Expression By JAK-STAT Signaling After Interleukin-12 Stimulation R-HSA-8950505,False,False,True,1
+Gene Expression (GO:0010467),True,False,False,1
+Gene Expression (Transcription) R-HSA-74160,True,False,False,1
+Gene Silencing By RNA R-HSA-211000,True,False,False,1
+Generic Transcription Pathway R-HSA-212436,True,False,False,1
+Global Genome Nucleotide Excision Repair (GG-NER) R-HSA-5696399,True,False,False,1
+Glucose Metabolism R-HSA-70326,True,False,False,1
+Glutathione metabolism,True,False,False,1
+Glycolysis R-HSA-70171,True,False,False,1
+HCMV Early Events R-HSA-9609690,True,False,False,1
+HCMV Infection R-HSA-9609646,True,False,False,1
+HCMV Late Events R-HSA-9610379,True,False,False,1
+Gap-filling DNA Repair Synthesis And Ligation In TC-NER R-HSA-6782210,True,False,False,1
+Epigenetic Regulation Of Gene Expression R-HSA-212165,True,False,False,1
+Epstein-Barr virus infection,True,False,False,1
+Erythrocytes Take Up Carbon Dioxide And Release Oxygen R-HSA-1237044,False,False,True,1
+Erythrocytes Take Up Oxygen And Release Carbon Dioxide R-HSA-1247673,False,False,True,1
+Establishment Of Protein Localization To Organelle (GO:0072594),True,False,False,1
+Exonucleolytic Catabolism Of Deadenylated mRNA (GO:0043928),True,False,False,1
+Exonucleolytic Trimming Involved In rRNA Processing (GO:0000459),True,False,False,1
+"Exonucleolytic Trimming To Generate Mature 3'-End Of 5.8S rRNA From Tricistronic rRNA Transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA) (GO:0000467)",True,False,False,1
+Export Of Viral Ribonucleoproteins From Nucleus R-HSA-168274,True,False,False,1
+Extension Of Telomeres R-HSA-180786,True,False,False,1
+Extracellular Matrix Disassembly (GO:0022617),False,False,True,1
+Extracellular Matrix Organization (GO:0030198),True,False,False,1
+FBXL7 Down-Regulates AURKA During Mitotic Entry And In Early Mitosis R-HSA-8854050,True,False,False,1
+G0 And Early G1 R-HSA-1538133,True,False,False,1
+FGFR2 Alternative Splicing R-HSA-6803529,True,False,False,1
+Fat digestion and absorption,False,False,True,1
+Fc Epsilon Receptor (FCERI) Signaling R-HSA-2454202,True,False,False,1
+Ferroptosis,False,False,True,1
+Fibrinolysis (GO:0042730),False,False,True,1
+Fibronectin Matrix Formation R-HSA-1566977,False,False,True,1
+Focal adhesion,True,False,False,1
+Formation Of Early Elongation Complex R-HSA-113418,True,False,False,1
+Formation Of Fibrin Clot (Clotting Cascade) R-HSA-140877,False,False,True,1
+Formation Of HIV Elongation Complex In Absence Of HIV Tat R-HSA-167152,True,False,False,1
+Formation Of HIV-1 Elongation Complex Containing HIV-1 Tat R-HSA-167200,True,False,False,1
+Formation Of RNA Pol II Elongation Complex R-HSA-112382,True,False,False,1
+Formation Of TC-NER Pre-Incision Complex R-HSA-6781823,True,False,False,1
+FCERI Mediated NF-kB Activation R-HSA-2871837,True,False,False,1
+Amyotrophic lateral sclerosis,True,False,False,1
+Anaphase-Promoting Complex-Dependent Catabolic Process (GO:0031145),True,False,False,1
+Antibacterial Humoral Response (GO:0019731),False,False,True,1
+Antigen Processing: Ubiquitination And Proteasome Degradation R-HSA-983168,True,False,False,1
+Antigen Receptor-Mediated Signaling Pathway (GO:0050851),False,False,True,1
+Antimicrobial Humoral Immune Response Mediated By Antimicrobial Peptide (GO:0061844),False,False,True,1
+Antimicrobial Humoral Response (GO:0019730),False,False,True,1
+Antimicrobial Peptides R-HSA-6803157,False,False,True,1
+Antiviral Mechanism By IFN-stimulated Genes R-HSA-1169410,True,False,False,1
+Apoptosis R-HSA-109581,True,False,False,1
+Asparagine N-linked Glycosylation R-HSA-446203,False,False,True,1
+Assembly Of Collagen Fibrils And Other Multimeric Structures R-HSA-2022090,True,False,False,1
+DNA Damage Bypass R-HSA-73893,True,False,False,1
+Asymmetric Localization Of PCP Proteins R-HSA-4608870,True,False,False,1
+Autodegradation Of Cdh1 By Cdh1:APC/C R-HSA-174084,True,False,False,1
+Autodegradation Of E3 Ubiquitin Ligase COP1 R-HSA-349425,True,False,False,1
+Axon Guidance R-HSA-422475,True,False,False,1
+B Cell Receptor Signaling Pathway (GO:0050853),False,False,True,1
+Basal transcription factors,True,False,False,1
+Base Excision Repair R-HSA-73884,True,False,False,1
+Base excision repair,True,False,False,1
+Base-Excision Repair (GO:0006284),True,False,False,1
+"Base-Excision Repair, Gap-Filling (GO:0006287)",True,False,False,1
+Beta-catenin Independent WNT Signaling R-HSA-3858494,True,False,False,1
+Binding And Uptake Of Ligands By Scavenger Receptors R-HSA-2173782,False,False,True,1
+Bleb Assembly (GO:0032060),True,False,False,1
+Assembly Of Pre-Replicative Complex R-HSA-68867,True,False,False,1
+protein-RNA Complex Assembly (GO:0022618),True,False,False,1
+mRNA Processing (GO:0006397),True,False,False,1
+APC-Cdc20 Mediated Degradation Of Nek2A R-HSA-179409,True,False,False,1
+APC/C-mediated Degradation Of Cell Cycle Proteins R-HSA-174143,True,False,False,1
+APC/C:Cdc20 Mediated Degradation Of Cyclin B R-HSA-174048,True,False,False,1
+APC/C:Cdc20 Mediated Degradation Of Mitotic Proteins R-HSA-176409,True,False,False,1
+APC/C:Cdc20 Mediated Degradation Of Securin R-HSA-174154,True,False,False,1
+APC/C:Cdh1 Mediated Degradation Of Cdc20 And APC/C:Cdh1 Targets In Late Mitosis/Early G1 R-HSA-174178,True,False,False,1
+APC:Cdc20 Mediated Degradation Of Cell Cycle Proteins Before Cycle Checkpoint Satisfied R-HSA-179419,True,False,False,1
+ATF4 Activates Genes In Response To Endoplasmic Reticulum Stress R-HSA-380994,True,False,False,1
+AUF1 (hnRNP D0) Binds And Destabilizes mRNA R-HSA-450408,True,False,False,1
+Aberrant Regulation Of Mitotic Cell Cycle Due To RB1 Defects R-HSA-9687139,True,False,False,1
+Aberrant Regulation Of Mitotic Exit In Cancer Due To RB1 Defects R-HSA-9687136,True,False,False,1
+Alzheimer disease,True,False,False,1
+Abortive Elongation Of HIV-1 Transcript In Absence Of Tat R-HSA-167242,True,False,False,1
+Actin Filament Organization (GO:0007015),False,False,True,1
+ABC-family Proteins Mediated Transport R-HSA-382556,True,False,False,1
+Activation Of ATR In Response To Replication Stress R-HSA-176187,True,False,False,1
+Activation Of C3 And C5 R-HSA-174577,False,False,True,1
+Activation Of HOX Genes During Differentiation R-HSA-5619507,True,False,False,1
+Activation Of NF-kappaB In B Cells R-HSA-1169091,True,False,False,1
+"Activation Of NIMA Kinases NEK9, NEK6, NEK7 R-HSA-2980767",True,False,False,1
+Activation Of Pre-Replicative Complex R-HSA-68962,True,False,False,1
+Acute Inflammatory Response (GO:0002526),False,False,True,1
+Acylglycerol Homeostasis (GO:0055090),False,False,True,1
+African trypanosomiasis,False,False,True,1
+"Alternative mRNA Splicing, Via Spliceosome (GO:0000380)",True,False,False,1
+Aberrant Regulation Of Mitotic G1/S Transition In Cancer Due To RB1 Defects R-HSA-9659787,True,False,False,1
+Chromosome Maintenance R-HSA-73886,True,False,False,1
+Chronic myeloid leukemia,True,False,False,1
+Chylomicron Assembly R-HSA-8963888,False,False,True,1
+Chylomicron Clearance R-HSA-8964026,False,False,True,1
+Chylomicron Remodeling R-HSA-8963901,False,False,True,1
+Citrate cycle (TCA cycle),True,False,False,1
+Citric Acid (TCA) Cycle And Respiratory Electron Transport R-HSA-1428517,True,False,False,1
+Class I MHC Mediated Antigen Processing And Presentation R-HSA-983169,True,False,False,1
+Collagen Biosynthesis And Modifying Enzymes R-HSA-1650814,True,False,False,1
+Collagen Chain Trimerization R-HSA-8948216,True,False,False,1
+Collagen Formation R-HSA-1474290,True,False,False,1
+Collecting duct acid secretion,False,False,True,1
+Common Pathway Of Fibrin Clot Formation R-HSA-140875,False,False,True,1
+"Blood Coagulation, Fibrin Clot Formation (GO:0072378)",False,False,True,1
+Complement and coagulation cascades,False,False,True,1
+Complex I Biogenesis R-HSA-6799198,True,False,False,1
+Condensation Of Prometaphase Chromosomes R-HSA-2514853,True,False,False,1
+Conversion From APC/C:Cdc20 To APC/C:Cdh1 In Late Anaphase R-HSA-176407,True,False,False,1
+Coronavirus disease,False,False,True,1
+Cross-presentation Of Soluble Exogenous Antigens (Endosomes) R-HSA-1236978,True,False,False,1
+Cyclin A/B1/B2 Associated Events During G2/M Transition R-HSA-69273,True,False,False,1
+Cyclin A:Cdk2-associated Events At S Phase Entry R-HSA-69656,True,False,False,1
+Cyclin E Associated Events During G1/S Transition R-HSA-69202,True,False,False,1
+Cysteine and methionine metabolism,True,False,False,1
+Cytokine Signaling In Immune System R-HSA-1280215,True,False,False,1
+Cytoprotection By HMOX1 R-HSA-9707564,False,False,True,1
+Cytoskeleton-Dependent Cytokinesis (GO:0061640),True,False,False,1
+Complement Cascade R-HSA-166658,False,False,True,1
+Butyrate Response Factor 1 Binds And Destabilizes mRNA R-HSA-450385,True,False,False,1
+C-type Lectin Receptors (CLRs) R-HSA-5621481,True,False,False,1
+CDK-mediated Phosphorylation And Removal Of Cdc6 R-HSA-69017,True,False,False,1
+CLEC7A (Dectin-1) Signaling R-HSA-5607764,True,False,False,1
+COPI-mediated Anterograde Transport R-HSA-6807878,False,False,True,1
+Carbon Dioxide Transport (GO:0015670),False,False,True,1
+Cdc20:Phospho-APC/C Mediated Degradation Of Cyclin A R-HSA-174184,True,False,False,1
+Cell Cycle Checkpoints R-HSA-69620,True,False,False,1
+Cell Cycle G1/S Phase Transition (GO:0044843),True,False,False,1
+Cell Cycle G2/M Phase Transition (GO:0044839),True,False,False,1
+Cell Cycle R-HSA-1640170,True,False,False,1
+"Cell Cycle, Mitotic R-HSA-69278",True,False,False,1
+Cell Surface Interactions At Vascular Wall R-HSA-202733,False,False,True,1
+Chromosome Condensation (GO:0030261),True,False,False,1
+Cell-Matrix Adhesion (GO:0007160),False,False,True,1
+Cellular Component Disassembly (GO:0022411),False,False,True,1
+Cellular Response To Heat Stress R-HSA-3371556,True,False,False,1
+Cellular Response To Hypoxia R-HSA-1234174,True,False,False,1
+Cellular Responses To Stimuli R-HSA-8953897,True,False,False,1
+Cellular Responses To Stress R-HSA-2262752,True,False,False,1
+Cellular Senescence R-HSA-2559583,True,False,False,1
+Cellular senescence,True,False,False,1
+Cholesterol Homeostasis (GO:0042632),False,False,True,1
+Cholesterol metabolism,False,False,True,1
+Chromatin Modifying Enzymes R-HSA-3247509,True,False,False,1
+Chromatin Organization (GO:0006325),True,False,False,1
+Chromatin Remodeling (GO:0006338),True,False,False,1
+Cell cycle,True,False,False,1
+MyD88:MAL(TIRAP) Cascade Initiated On Plasma Membrane R-HSA-166058,False,False,True,1
+NCAM Signaling For Neurite Out-Growth R-HSA-375165,False,False,True,1
+NEP/NS2 Interacts With Cellular Export Machinery R-HSA-168333,True,False,False,1
+NIK To Noncanonical NF-kB Signaling R-HSA-5676590,True,False,False,1
+NS1 Mediated Effects On Host Pathways R-HSA-168276,True,False,False,1
+Neddylation R-HSA-8951664,True,False,False,1
+Negative Epigenetic Regulation Of rRNA Expression R-HSA-5250941,True,False,False,1
+Negative Regulation By Host Of Viral Transcription (GO:0043922),True,False,False,1
+Negative Regulation Of Binding (GO:0051100),True,False,False,1
+Negative Regulation Of Blood Coagulation (GO:0030195),False,False,True,1
+Negative Regulation Of Cartilage Development (GO:0061037),True,False,False,1
+Negative Regulation Of Cell-Cell Adhesion (GO:0022408),False,False,True,1
+HDACs Deacetylate Histones R-HSA-3214815,True,False,False,1
+Negative Regulation Of DNA-templated Transcription (GO:0045892),True,False,False,1
+"Negative Regulation Of DNA-templated Transcription, Elongation (GO:0032785)",True,False,False,1
+Negative Regulation Of Developmental Process (GO:0051093),True,False,False,1
+Negative Regulation Of Endopeptidase Activity (GO:0010951),False,False,True,1
+Negative Regulation Of Endothelial Cell Apoptotic Process (GO:2000352),False,False,True,1
+Negative Regulation Of Epithelial Cell Apoptotic Process (GO:1904036),False,False,True,1
+Negative Regulation Of Extrinsic Apoptotic Signaling Pathway Via Death Domain Receptors (GO:1902042),False,False,True,1
+Negative Regulation Of Fibrinolysis (GO:0051918),False,False,True,1
+Negative Regulation Of Mitotic Metaphase/Anaphase Transition (GO:0045841),True,False,False,1
+Negative Regulation Of NOTCH4 Signaling R-HSA-9604323,True,False,False,1
+Negative Regulation Of Nucleic Acid-Templated Transcription (GO:1903507),True,False,False,1
+Negative Regulation Of Peptidase Activity (GO:0010466),False,False,True,1
+Negative Regulation Of Programmed Cell Death (GO:0043069),False,False,True,1
+Negative Regulation Of DNA Binding (GO:0043392),True,False,False,1
+Mitochondrial Translation Termination R-HSA-5419276,True,False,False,1
+Mitotic Anaphase R-HSA-68882,True,False,False,1
+Mitotic Cell Cycle Phase Transition (GO:0044772),True,False,False,1
+Mitotic Chromosome Condensation (GO:0007076),True,False,False,1
+Mitotic Cytokinesis (GO:0000281),True,False,False,1
+Mitotic Cytokinetic Process (GO:1902410),True,False,False,1
+Mitotic DNA Replication (GO:1902969),True,False,False,1
+Mitotic G1 Phase And G1/S Transition R-HSA-453279,True,False,False,1
+Mitotic G2-G2/M Phases R-HSA-453274,True,False,False,1
+Mitotic Metaphase And Anaphase R-HSA-2555396,True,False,False,1
+Mitotic Metaphase Plate Congression (GO:0007080),True,False,False,1
+Mitotic Nuclear Division (GO:0140014),True,False,False,1
+Mitotic Prometaphase R-HSA-68877,True,False,False,1
+MyD88 Deficiency (TLR2/4) R-HSA-5602498,False,False,True,1
+Mitotic Sister Chromatid Segregation (GO:0000070),True,False,False,1
+Mitotic Spindle Assembly (GO:0090307),True,False,False,1
+Mitotic Spindle Assembly Checkpoint Signaling (GO:0007094),True,False,False,1
+Mitotic Spindle Checkpoint R-HSA-69618,True,False,False,1
+Mitotic Spindle Checkpoint Signaling (GO:0071174),True,False,False,1
+Mitotic Spindle Elongation (GO:0000022),True,False,False,1
+Mitotic Spindle Midzone Assembly (GO:0051256),True,False,False,1
+Mitotic Spindle Organization (GO:0007052),True,False,False,1
+Mitotic Telophase/Cytokinesis R-HSA-68884,True,False,False,1
+Modulation By Host Of Symbiont Process (GO:0051851),True,False,False,1
+Monoubiquitinated Protein Deubiquitination (GO:0035520),True,False,False,1
+Multivesicular Body Assembly (GO:0036258),True,False,False,1
+Multivesicular Body Organization (GO:0036257),True,False,False,1
+Mitotic Prophase R-HSA-68875,True,False,False,1
+Nuclear Transport (GO:0051169),True,False,False,1
+Nuclear mRNA Surveillance (GO:0071028),True,False,False,1
+Nuclear-Transcribed mRNA Catabolic Process (GO:0000956),True,False,False,1
+"Nuclear-Transcribed mRNA Catabolic Process, Deadenylation-Dependent Decay (GO:0000288)",True,False,False,1
+"Nuclear-Transcribed mRNA Catabolic Process, Exonucleolytic (GO:0000291)",True,False,False,1
+"Nuclear-Transcribed mRNA Catabolic Process, Exonucleolytic, 3'-5' (GO:0034427)",True,False,False,1
+Nucleobase-Containing Compound Catabolic Process (GO:0034655),True,False,False,1
+Nucleocytoplasmic Transport (GO:0006913),True,False,False,1
+Nucleosome Assembly (GO:0006334),True,False,False,1
+Nucleosome Disassembly (GO:0006337),True,False,False,1
+Nucleosome Organization (GO:0034728),True,False,False,1
+Nucleotide Biosynthetic Process (GO:0009165),True,False,False,1
+Nucleotide Excision Repair R-HSA-5696398,True,False,False,1
+Negative Regulation Of Protein Import Into Nucleus (GO:0042308),True,False,False,1
+Nucleus Organization (GO:0006997),True,False,False,1
+Oncogenic MAPK Signaling R-HSA-6802957,False,False,True,1
+One carbon pool by folate,True,False,False,1
+One-Carbon Compound Transport (GO:0019755),False,False,True,1
+Oocyte meiosis,True,False,False,1
+Orc1 Removal From Chromatin R-HSA-68949,True,False,False,1
+Oxygen Transport (GO:0015671),False,False,True,1
+Oxygen-dependent Proline Hydroxylation Of Hypoxia-inducible Factor Alpha R-HSA-1234176,True,False,False,1
+Activation Of APC/C And APC/C:Cdc20 Mediated Degradation Of Mitotic Proteins R-HSA-176814,True,False,False,1
+PCP/CE Pathway R-HSA-4086400,True,False,False,1
+PERK Regulates Gene Expression R-HSA-381042,True,False,False,1
+PIP3 Activates AKT Signaling R-HSA-1257604,True,False,False,1
+PTEN Regulation R-HSA-6807070,True,False,False,1
+Nucleotide excision repair,True,False,False,1
+Negative Regulation Of Protein Ubiquitination (GO:0031397),True,False,False,1
+Negative Regulation Of Stem Cell Population Maintenance (GO:1902455),True,False,False,1
+Negative Regulation Of Transcription Elongation By RNA Polymerase II (GO:0034244),True,False,False,1
+Negative Regulation Of Transferase Activity (GO:0051348),True,False,False,1
+Negative Regulation Of Transforming Growth Factor Beta Receptor Signaling Pathway (GO:0030512),True,False,False,1
+Negative Regulation Of Transmembrane Receptor Protein Serine/Threonine Kinase Signaling Pathway (GO:0090101),True,False,False,1
+Negative Regulation Of Ubiquitin-Protein Transferase Activity (GO:0051444),True,False,False,1
+Nervous System Development R-HSA-9675108,True,False,False,1
+Neurofascin Interactions R-HSA-447043,False,False,True,1
+Neutrophil Degranulation R-HSA-6798695,False,False,True,1
+Neutrophil extracellular trap formation,False,False,True,1
+Nitrogen metabolism,False,False,True,1
+NoRC Negatively Regulates rRNA Expression R-HSA-427413,True,False,False,1
+Nuclear RNA Surveillance (GO:0071027),True,False,False,1
+Non-alcoholic fatty liver disease,True,False,False,1
+Non-integrin membrane-ECM Interactions R-HSA-3000171,True,False,False,1
+NrCAM Interactions R-HSA-447038,False,False,True,1
+Nuclear Envelope (NE) Reassembly R-HSA-2995410,True,False,False,1
+Nuclear Envelope Breakdown R-HSA-2980766,True,False,False,1
+Nuclear Events Mediated By NFE2L2 R-HSA-9759194,True,False,False,1
+Nuclear Export (GO:0051168),True,False,False,1
+Nuclear Import Of Rev Protein R-HSA-180746,True,False,False,1
+Nuclear Polyadenylation-Dependent ncRNA Catabolic Process (GO:0071046),True,False,False,1
+Nuclear Polyadenylation-Dependent rRNA Catabolic Process (GO:0071035),True,False,False,1
+Nuclear Polyadenylation-Dependent tRNA Catabolic Process (GO:0071038),True,False,False,1
+Nuclear Pore Complex (NPC) Disassembly R-HSA-3301854,True,False,False,1
+Nuclear Pore Organization (GO:0006999),True,False,False,1
+Non-Membrane-Bounded Organelle Assembly (GO:0140694),True,False,False,1
+Homotypic Cell-Cell Adhesion (GO:0034109),False,False,True,1
+Host Interactions Of HIV Factors R-HSA-162909,True,False,False,1
+Human T-cell leukemia virus 1 infection,True,False,False,1
+Human papillomavirus infection,True,False,False,1
+Huntington disease,True,False,False,1
+Hydrogen Peroxide Catabolic Process (GO:0042744),False,False,True,1
+IL-6-type Cytokine Receptor Ligand Interactions R-HSA-6788467,True,False,False,1
+IRAK4 Deficiency (TLR2/4) R-HSA-5603041,False,False,True,1
+ISG15 Antiviral Mechanism R-HSA-1169408,True,False,False,1
+Immune System R-HSA-168256,False,False,True,1
+Import Into Nucleus (GO:0051170),True,False,False,1
+Inactivation Of APC/C Via Direct Inhibition Of APC/C Complex R-HSA-141430,True,False,False,1
+Mitochondrial Translation R-HSA-5368287,True,False,False,1
+Inflammatory Response (GO:0006954),False,False,True,1
+Influenza Infection R-HSA-168255,True,False,False,1
+Influenza Viral RNA Transcription And Replication R-HSA-168273,True,False,False,1
+Inhibition Of Replication Initiation Of Damaged DNA By RB1/E2F1 R-HSA-113501,True,False,False,1
+Initial Triggering Of Complement R-HSA-166663,False,False,True,1
+Initiation Of Nuclear Envelope (NE) Reformation R-HSA-2995383,True,False,False,1
+Innate Immune System R-HSA-168249,False,False,True,1
+Integrin Cell Surface Interactions R-HSA-216083,False,False,True,1
+Integrin Signaling R-HSA-354192,False,False,True,1
+Integrin-Mediated Signaling Pathway (GO:0007229),False,False,True,1
+Interaction Between L1 And Ankyrins R-HSA-445095,False,False,True,1
+Interactions Of Rev With Host Cellular Proteins R-HSA-177243,True,False,False,1
+Interactions Of Vpr With Host Cellular Proteins R-HSA-176033,True,False,False,1
+Infectious Disease R-HSA-5663205,True,False,False,1
+HDL Assembly R-HSA-8963896,False,False,True,1
+HDL Clearance R-HSA-8964011,False,False,True,1
+HDL Remodeling R-HSA-8964058,False,False,True,1
+HDR Thru Homologous Recombination (HRR) Or Single Strand Annealing (SSA) R-HSA-5693567,True,False,False,1
+HDR Thru Homologous Recombination (HRR) R-HSA-5685942,True,False,False,1
+HIV Elongation Arrest And Recovery R-HSA-167287,True,False,False,1
+HIV Infection R-HSA-162906,True,False,False,1
+HIV Life Cycle R-HSA-162587,True,False,False,1
+HIV Transcription Initiation R-HSA-167161,True,False,False,1
+Hedgehog Ligand Biogenesis R-HSA-5358346,True,False,False,1
+Hedgehog Off State R-HSA-5610787,True,False,False,1
+Hedgehog On State R-HSA-5632684,True,False,False,1
+Hematopoietic Stem Cell Proliferation (GO:0071425),True,False,False,1
+Homology Directed Repair R-HSA-5693538,True,False,False,1
+Heme Signaling R-HSA-9707616,False,False,True,1
+Hemostasis R-HSA-109582,False,False,True,1
+Hepatocellular carcinoma,True,False,False,1
+Heterochromatin Organization (GO:0070828),True,False,False,1
+Hh Mutants Abrogate Ligand Secretion R-HSA-5387390,True,False,False,1
+Hh Mutants Are Degraded By ERAD R-HSA-5362768,True,False,False,1
+Histone Acetylation (GO:0016573),True,False,False,1
+Histone Deacetylation (GO:0016575),True,False,False,1
+Histone H4 Acetylation (GO:0043967),True,False,False,1
+Histone Modification (GO:0016570),True,False,False,1
+Histone Monoubiquitination (GO:0010390),True,False,False,1
+Histone Ubiquitination (GO:0016574),True,False,False,1
+Histone mRNA Metabolic Process (GO:0008334),True,False,False,1
+Hematopoietic cell lineage,False,True,False,1
+MET Promotes Cell Motility R-HSA-8875878,True,False,False,1
+MHC Class II Antigen Presentation R-HSA-2132295,True,False,False,1
+Macromolecule Catabolic Process (GO:0009057),True,False,False,1
+Major Pathway Of rRNA Processing In Nucleolus And Cytosol R-HSA-6791226,True,False,False,1
+Malaria,False,False,True,1
+"Maturation Of 5.8S rRNA From Tricistronic rRNA Transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA) (GO:0000466)",True,False,False,1
+Maturation Of SSU-rRNA (GO:0030490),True,False,False,1
+Membrane Trafficking R-HSA-199991,False,False,True,1
+Metabolism Of Cofactors R-HSA-8978934,True,False,False,1
+Metabolism Of Fat-Soluble Vitamins R-HSA-6806667,False,False,True,1
+Metabolism Of Folate And Pterines R-HSA-196757,True,False,False,1
+Metabolism Of Non-Coding RNA R-HSA-194441,True,False,False,1
+Metabolism Of Nucleotides R-HSA-15869,True,False,False,1
+Interconversion Of Nucleotide Di- And Triphosphates R-HSA-499943,True,False,False,1
+Metabolism Of RNA R-HSA-8953854,True,False,False,1
+Metal Sequestration By Antimicrobial Proteins R-HSA-6799990,False,False,True,1
+Metaphase Plate Congression (GO:0051310),True,False,False,1
+Microtubule Cytoskeleton Organization Involved In Mitosis (GO:1902850),True,False,False,1
+Midbody Abscission (GO:0061952),True,False,False,1
+Mismatch repair,True,False,False,1
+"Mitochondrial Electron Transport, NADH To Ubiquinone (GO:0006120)",True,False,False,1
+Mitochondrial Fatty Acid Beta-Oxidation Of Unsaturated Fatty Acids R-HSA-77288,True,False,False,1
+Mitochondrial Gene Expression (GO:0140053),True,False,False,1
+Mitochondrial Protein Import R-HSA-1268020,True,False,False,1
+Mitochondrial Translation (GO:0032543),True,False,False,1
+Mitochondrial Translation Elongation R-HSA-5389840,True,False,False,1
+Mitochondrial Translation Initiation R-HSA-5368286,True,False,False,1
+Metabolism Of Polyamines R-HSA-351202,True,False,False,1
+Interleukin-1 Family Signaling R-HSA-446652,True,False,False,1
+Interleukin-1 Signaling R-HSA-9020702,True,False,False,1
+Interleukin-12 Family Signaling R-HSA-447115,False,False,True,1
+Interleukin-12 Signaling R-HSA-9020591,False,False,True,1
+Interleukin-6 Family Signaling R-HSA-6783589,True,False,False,1
+Intracellular Signaling By Second Messengers R-HSA-9006925,True,False,False,1
+Intrinsic Pathway For Apoptosis R-HSA-109606,True,False,False,1
+Iron Ion Transport (GO:0006826),False,False,True,1
+Iron Uptake And Transport R-HSA-917937,False,False,True,1
+Isotype Switching (GO:0045190),True,False,False,1
+KEAP1-NFE2L2 Pathway R-HSA-9755511,True,False,False,1
+KSRP (KHSRP) Binds And Destabilizes mRNA R-HSA-450604,True,False,False,1
+Keratinization R-HSA-6805567,False,True,False,1
+MET Activates PTK2 Signaling R-HSA-8874081,True,False,False,1
+Kinesins R-HSA-983189,True,False,False,1
+L1CAM Interactions R-HSA-373760,False,False,True,1
+LDL Remodeling R-HSA-8964041,False,False,True,1
+Lagging Strand Synthesis R-HSA-69186,True,False,False,1
+Laminin Interactions R-HSA-3000157,True,False,False,1
+Late Phase Of HIV Life Cycle R-HSA-162599,True,False,False,1
+Leading Strand Synthesis R-HSA-69109,True,False,False,1
+Leukocyte Aggregation (GO:0070486),False,False,True,1
+Low-Density Lipoprotein Particle Remodeling (GO:0034374),False,False,True,1
+M Phase R-HSA-68886,True,False,False,1
+MAP2K And MAPK Activation R-HSA-5674135,False,False,True,1
+MAPK6/MAPK4 Signaling R-HSA-5687128,True,False,False,1
+MET Activates PI3K/AKT Signaling R-HSA-8851907,True,False,False,1
+Killing By Host Of Symbiont Cells (GO:0051873),False,False,True,1

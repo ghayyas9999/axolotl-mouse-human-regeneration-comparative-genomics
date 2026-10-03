@@ -1,0 +1,61 @@
+accession_number,gene_symbol,protein_description,molecular_weight,p_coagulation_vs_hypergranulation,p_coagulation_vs_proliferation,p_coagulation_vs_epithelialization,p_hypergranulation_vs_proliferation,p_hypergranulation_vs_epithelialization,p_proliferation_vs_epithelialization,significant_any_comparison
+P01023,A2M,Alpha-2-macroglobulin OS=Homo sapiens OX=9606 GN=A2M PE=1 SV=3,163 kDa,0.0001,0.0001,0.0001,0.0001,0.0001,0.0001,1
+P60709,ACTB,"Cluster of Actin, cytoplasmic 1 OS=Homo sapiens OX=9606 GN=ACTB PE=1 SV=1 (P60709)",42 kDa,0.7691,0.0001,0.99,0.0001,0.5335,0.0001,1
+P12814,ACTN1,Cluster of Alpha-actinin-1 OS=Homo sapiens OX=9606 GN=ACTN1 PE=1 SV=2 (P12814),103 kDa,0.0268,0.0018,0.9474,0.9382,0.0022,0.0001,1
+P02768,ALB,Albumin OS=Homo sapiens OX=9606 GN=ALB PE=1 SV=2,69 kDa,0.0001,0.0001,0.0001,0.0001,0.0001,0.0001,1
+P16157,ANK1,Cluster of Ankyrin-1 OS=Homo sapiens OX=9606 GN=ANK1 PE=1 SV=3 (P16157),206 kDa,0.0097,0.0001,0.0001,0.7481,0.4928,0.9551,1
+P02647,APOA1,Apolipoprotein A-I OS=Homo sapiens OX=9606 GN=APOA1 PE=1 SV=1,31 kDa,0.2253,0.0001,0.0001,0.0001,0.0001,0.6056,1
+P04114,APOB,Apolipoprotein B-100 OS=Homo sapiens OX=9606 GN=APOB PE=1 SV=3,516 kDa,0.2486,0.0001,0.0001,0.0001,0.0001,0.0001,1
+P01024,C3,Complement C3 OS=Homo sapiens OX=9606 GN=C3 PE=1 SV=2,187 kDa,0.1952,0.0001,0.0001,0.0001,0.0001,0.0001,1
+P0C0L5,C4B,Cluster of Complement C4-B OS=Homo sapiens OX=9606 GN=C4B PE=1 SV=2 (P0C0L5),193 kDa,0.0328,0.0656,0.0001,0.0001,0.0001,0.0001,1
+P01031,C5,Complement C5 OS=Homo sapiens OX=9606 GN=C5 PE=1 SV=4,188 kDa,,0.4499,0.0128,0.396,0.0081,0.2389,1
+P00915,CA1,Carbonic anhydrase 1 OS=Homo sapiens OX=9606 GN=CA1 PE=1 SV=2,29 kDa,0.007,0.0001,0.0001,0.0053,0.0001,0.0155,1
+P00918,CA2,Carbonic anhydrase 2 OS=Homo sapiens OX=9606 GN=CA2 PE=1 SV=2,29 kDa,0.4824,0.0656,0.0123,0.7778,0.3556,0.8427,1
+P04040,CAT,Cluster of Catalase OS=Homo sapiens OX=9606 GN=CAT PE=1 SV=3 (P04040),60 kDa,0.2907,0.0906,0.0011,0.9732,0.1907,0.2979,1
+P00751,CFB,Complement factor B OS=Homo sapiens OX=9606 GN=CFB PE=1 SV=2,86 kDa,,0.5027,0.0321,0.4563,0.0229,0.3692,1
+P08603,CFH,Cluster of Complement factor H OS=Homo sapiens OX=9606 GN=CFH PE=1 SV=4 (P08603),139 kDa,0.9521,0.009,0.0001,0.0373,0.0001,0.1132,1
+P00450,CP,Ceruloplasmin OS=Homo sapiens OX=9606 GN=CP PE=1 SV=2,122 kDa,0.9396,0.0688,0.0001,0.0075,0.0001,0.0012,1
+P15924,DSP,Desmoplakin OS=Homo sapiens OX=9606 GN=DSP PE=1 SV=3,332 kDa,0.9753,0.9793,0.0006,0.8124,0.0001,0.0003,1
+P00734,F2,Prothrombin OS=Homo sapiens OX=9606 GN=F2 PE=1 SV=2,70 kDa,0.8875,0.0682,0.028,0.3076,0.1499,0.951,1
+P02675,FGB,Fibrinogen beta chain OS=Homo sapiens OX=9606 GN=FGB PE=1 SV=2,56 kDa,0.0249,0.0052,0.0393,0.9945,0.0001,0.0001,1
+P02679,FGG,Fibrinogen gamma chain OS=Homo sapiens OX=9606 GN=FGG PE=1 SV=3,52 kDa,0.0778,0.063,0.0586,0.9992,0.0001,0.0001,1
+P20930,FLG,Filaggrin OS=Homo sapiens OX=9606 GN=FLG PE=1 SV=3,435 kDa,,0.9787,0.0186,0.9671,0.0115,0.0193,1
+P02751,FN1,Fibronectin OS=Homo sapiens OX=9606 GN=FN1 PE=1 SV=5,272 kDa,0.0611,0.9212,0.2175,0.1329,0.0001,0.0206,1
+P04406,GAPDH,Cluster of Glyceraldehyde-3-phosphate dehydrogenase OS=Homo sapiens OX=9606 GN=GAPDH PE=1 SV=3 (P04406),36 kDa,0.999,0.8686,0.2906,0.919,0.195,0.023,1
+P02774,GC,Vitamin D-binding protein OS=Homo sapiens OX=9606 GN=GC PE=1 SV=2,53 kDa,0.7447,0.8599,0.0706,0.2016,0.0018,0.2141,1
+P62805,H4C1,Histone H4 OS=Homo sapiens OX=9606 GN=H4C1 PE=1 SV=2,11 kDa,0.6382,0.012,0.9474,0.2529,0.9002,0.038,1
+P69905,HBA1,Hemoglobin subunit alpha OS=Homo sapiens OX=9606 GN=HBA1 PE=1 SV=2,15 kDa,0.0001,0.0001,0.0001,0.0001,0.0001,0.0001,1
+P68871,HBB,Hemoglobin subunit beta OS=Homo sapiens OX=9606 GN=HBB PE=1 SV=2,16 kDa,0.0001,0.0001,0.0001,0.0001,0.0001,0.0001,1
+P02042,HBD,Hemoglobin subunit delta OS=Homo sapiens OX=9606 GN=HBD PE=1 SV=2,16 kDa,0.0001,0.0001,0.0001,0.0001,0.0001,0.0001,1
+P69892,HBG2,Cluster of Hemoglobin subunit gamma-2 OS=Homo sapiens OX=9606 GN=HBG2 PE=1 SV=2 (P69892),16 kDa,0.0001,0.0001,0.0001,0.0003,0.0001,0.0029,1
+P00738,HP,Cluster of Haptoglobin OS=Homo sapiens OX=9606 GN=HP PE=1 SV=1 (P00738),45 kDa,0.5838,0.4059,0.0001,0.0121,0.0001,0.0044,1
+P02790,HPX,Hemopexin OS=Homo sapiens OX=9606 GN=HPX PE=1 SV=2,52 kDa,0.2135,0.7536,0.041,0.0068,0.0001,0.2073,1
+P0DOX5,IGHG1,Immunoglobulin gamma-1 heavy chain OS=Homo sapiens OX=9606 PE=1 SV=2,49 kDa,0.7237,0.0024,0.0001,0.0001,0.0001,0.5603,1
+P01859,IGHG2,Immunoglobulin heavy constant gamma 2 OS=Homo sapiens OX=9606 GN=IGHG2 PE=1 SV=3,44 kDa,0.9253,0.3177,0.0787,0.0618,0.0091,0.8114,1
+P01871,IGHM,Cluster of Immunoglobulin heavy constant mu OS=Homo sapiens OX=9606 GN=IGHM PE=1 SV=5 (P01871),52 kDa,,0.1551,0.0006,0.1216,0.0003,0.1267,1
+P01834,IGKC,Cluster of Immunoglobulin kappa constant OS=Homo sapiens OX=9606 GN=IGKC PE=1 SV=2 (P01834),12 kDa,0.2802,0.0787,0.0072,0.0001,0.0001,0.6947,1
+P0DOY3,IGLC3,Cluster of Immunoglobulin lambda constant 3 OS=Homo sapiens OX=9606 GN=IGLC3 PE=1 SV=1 (P0DOY3),11 kDa,0.5588,0.7924,0.534,0.0692,0.0273,0.9488,1
+P19827,ITIH1,Inter-alpha-trypsin inhibitor heavy chain H1 OS=Homo sapiens OX=9606 GN=ITIH1 PE=1 SV=3,101 kDa,0.9565,0.0906,0.0086,0.2493,0.0318,0.6921,1
+P19823,ITIH2,Inter-alpha-trypsin inhibitor heavy chain H2 OS=Homo sapiens OX=9606 GN=ITIH2 PE=1 SV=2,106 kDa,0.8932,0.0906,0.0345,0.3638,0.1701,0.9396,1
+Q14624,ITIH4,Inter-alpha-trypsin inhibitor heavy chain H4 OS=Homo sapiens OX=9606 GN=ITIH4 PE=1 SV=4,103 kDa,0.9992,0.1641,0.0061,0.1862,0.0065,0.4375,1
+K1C10_HUMAN,K1C10,"Cluster of Keratin, type I cytoskeletal 10 - Homo sapiens (K1C10_HUMAN)",60 kDa,0.0309,0.0001,0.0001,0.0001,0.0001,0.0001,1
+K1C9_HUMAN,K1C9,"Keratin, type I cytoskeletal 9 - Homo sapiens",62 kDa,0.9985,0.0001,0.0001,0.0001,0.0001,0.0001,1
+K2C1_HUMAN,K2C1,"Keratin, type II cytoskeletal 1 - Homo sapiens",66 kDa,0.9911,0.0001,0.0001,0.0001,0.0001,0.0001,1
+K2C6B_HUMAN,K2C6B,"Cluster of Keratin, type II cytoskeletal 6B - Homo sapiens (K2C6B_HUMAN)",60 kDa,0.5498,0.0001,0.0001,0.0001,0.0001,0.0001,1
+P13796,LCP1,Cluster of Plastin-2 OS=Homo sapiens OX=9606 GN=LCP1 PE=1 SV=6 (P13796),70 kDa,0.0606,0.0001,0.9934,0.2717,0.0805,0.0001,1
+P02788,LTF,Lactotransferrin OS=Homo sapiens OX=9606 GN=LTF PE=1 SV=6,78 kDa,0.0001,0.0001,0.0001,0.0068,0.8988,0.0492,1
+P05164,MPO,Myeloperoxidase OS=Homo sapiens OX=9606 GN=MPO PE=1 SV=1,84 kDa,0.0195,0.0001,0.0043,0.0167,0.9782,0.0445,1
+P35579,MYH9,Cluster of Myosin-9 OS=Homo sapiens OX=9606 GN=MYH9 PE=1 SV=4 (P35579),227 kDa,0.9475,0.0066,0.9764,0.0301,0.7439,0.0004,1
+P00747,PLG,Cluster of Plasminogen OS=Homo sapiens OX=9606 GN=PLG PE=1 SV=2 (P00747),91 kDa,0.9512,0.1216,0.0057,0.3265,0.0237,0.5178,1
+P32119,PRDX2,Peroxiredoxin-2 OS=Homo sapiens OX=9606 GN=PRDX2 PE=1 SV=5,22 kDa,0.1382,0.0074,0.0007,0.8018,0.3189,0.7801,1
+P20742,PZP,Pregnancy zone protein OS=Homo sapiens OX=9606 GN=PZP PE=1 SV=4,164 kDa,0.4237,0.1325,0.0003,0.0004,0.0001,0.0906,1
+P05109,S100A8,Protein S100-A8 OS=Homo sapiens OX=9606 GN=S100A8 PE=1 SV=1,11 kDa,0.1191,0.0001,0.0002,0.002,0.2054,0.4076,1
+P06702,S100A9,Protein S100-A9 OS=Homo sapiens OX=9606 GN=S100A9 PE=1 SV=1,13 kDa,0.0003,0.0001,0.0157,0.0056,0.6301,0.0001,1
+P01009,SERPINA1,Alpha-1-antitrypsin OS=Homo sapiens OX=9606 GN=SERPINA1 PE=1 SV=3,47 kDa,0.0001,0.0014,0.0001,0.0001,0.0001,0.0001,1
+P01011,SERPINA3,Alpha-1-antichymotrypsin OS=Homo sapiens OX=9606 GN=SERPINA3 PE=1 SV=2,48 kDa,0.9194,0.6601,0.0166,0.2195,0.001,0.1413,1
+P30740,SERPINB1,Cluster of Leukocyte elastase inhibitor OS=Homo sapiens OX=9606 GN=SERPINB1 PE=1 SV=1 (P30740),43 kDa,0.5271,0.0031,0.4275,0.1661,0.9992,0.1911,1
+P01008,SERPINC1,Antithrombin-III OS=Homo sapiens OX=9606 GN=SERPINC1 PE=1 SV=1,53 kDa,,0.3834,0.0008,0.3571,0.0005,0.0397,1
+P02730,SLC4A1,Band 3 anion transport protein OS=Homo sapiens OX=9606 GN=SLC4A1 PE=1 SV=3,102 kDa,0.0651,0.0003,0.0001,0.5064,0.0468,0.4863,1
+P02549,SPTA1,"Spectrin alpha chain, erythrocytic 1 OS=Homo sapiens OX=9606 GN=SPTA1 PE=1 SV=5",280 kDa,0.0001,0.0001,0.0001,0.2113,0.0141,0.5603,1
+P11277,SPTB,"Spectrin beta chain, erythrocytic OS=Homo sapiens OX=9606 GN=SPTB PE=1 SV=5",246 kDa,0.0001,0.0001,0.0001,0.1985,0.0076,0.4502,1
+P02787,TF,Serotransferrin OS=Homo sapiens OX=9606 GN=TF PE=1 SV=5,77 kDa,0.0108,0.0001,0.0001,0.0001,0.0001,0.0001,1

@@ -1,0 +1,4 @@
+Comparison,n,rho,perm_p
+Axolotl-Mouse (regen vs regen),11544,0.0845,<0.0001
+Axolotl-Human (regen vs scar),11777,0.11811962665483332,9.999000099990002e-05
+Mouse-Human (regen vs scar),16956,0.14102333320143082,9.999000099990002e-05
