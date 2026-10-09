@@ -22,8 +22,8 @@ show the project's methodological development:
 
 ## Key Findings (final_design)
 1. **Mest**, previously identified as a mouse digit-tip regeneration-specific
-   gene (Jou et al., 2024), was independently recovered as the top differentially
-   expressed gene in this reanalysis (log2FC=5.96, padj≈0) — external validation
+   gene (Jou et al., 2024), was independently recovered as one of the most significantly
+   upregulated genes in this reanalysis (log2FC=5.96, padj≈0) — external validation
    of the pipeline.
 2. Axolotl and mouse regeneration fold-changes correlate significantly across
    11,544 shared genes (Spearman rho=0.085, permutation p<0.0001), robust to
