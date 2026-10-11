@@ -21,19 +21,23 @@ show the project's methodological development:
   **This is the project's primary result set.**
 
 ## Key Findings (final_design)
-1. **Mest**, previously identified as a mouse digit-tip regeneration-specific
-   gene (Jou et al., 2024), was independently recovered as one of the most significantly
-   upregulated genes in this reanalysis (log2FC=5.96, padj≈0) — external validation
-   of the pipeline.
-2. Axolotl and mouse regeneration fold-changes correlate significantly across
-   11,544 shared genes (Spearman rho=0.085, permutation p<0.0001), robust to
-   cell-cycle gene exclusion and 1:1 ortholog restriction.
-3. This correlation is **not regeneration-specific**: axolotl-human and
-   mouse-human correlations are both higher (rho=0.118, 0.141), a pattern more
-   consistent with phylogenetic/platform covariates than a shared regeneration
-   program (see `results/tables/final_design/specificity_test_summary.csv`).
-4. Pathway-level analysis (cell-cycle genes excluded) identifies extracellular
-   matrix organization and axon guidance as shared axolotl-mouse processes.
+1. **Mest**, previously reported as regeneration-specific in the mouse digit tip,
+   was reproduced as one of the most significantly upregulated genes (log2FC=5.96,
+   padj~0). This uses the same dataset as the original authors, so it is a
+   pipeline check, not independent replication.
+2. Axolotl and mouse fold-changes correlate modestly but significantly
+   (Spearman rho=0.162, n=9,817, permutation p<0.0001) after excluding genes with
+   extreme fold-changes (|log2FC|>10, detection artifacts). With all genes
+   rho=0.085. Result holds after removing cell-cycle genes (rho=0.152) and at a
+   stricter cap of 5 (rho=0.161). The cap was chosen after inspecting the
+   scatter plot; all-gene results are reported alongside.
+3. This agreement is **not regeneration-specific**: axolotl-human (rho=0.178) and
+   mouse-human (rho=0.228) are as high or higher, more consistent with
+   evolutionary distance, sequencing technology and a general wound response
+   (results/tables/final_design/correlation_fold_change_cap_robustness.csv).
+4. Extracellular matrix, collagen and axon-guidance pathways are shared by all
+   three species (20 of 22 axolotl-mouse pathways are also significant in
+   human), pointing to a general repair response.
 
 ## Datasets
 | Species | Accession | Used in | Design |

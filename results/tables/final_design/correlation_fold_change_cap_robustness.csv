@@ -1,0 +1,10 @@
+cap,pair,n,rho,perm_p,same_direction
+none,Axolotl-Mouse,11544,0.0845,0.0001,0.622
+none,Axolotl-Human,11777,0.1181,0.0001,0.548
+none,Mouse-Human,16956,0.141,0.0001,0.53
+10,Axolotl-Mouse,9817,0.1621,0.0001,0.632
+10,Axolotl-Human,10012,0.1785,0.0001,0.56
+10,Mouse-Human,14818,0.2276,0.0001,0.554
+5,Axolotl-Mouse,9760,0.1614,0.0001,0.631
+5,Axolotl-Human,9941,0.1788,0.0001,0.559
+5,Mouse-Human,14751,0.2277,0.0001,0.555
